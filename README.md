@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+Quest to find a way to have a button overlay on the camera feed,
+started as a sceneform plugin, then as a surface view plugin..
+ended up here, at a simpler solution of just using a **Stack** widget of flutter.
+
+not about the code but about the idea.
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
